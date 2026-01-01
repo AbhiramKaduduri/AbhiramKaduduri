@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a strong interest in Computer Science, specifically in programming (C, Python, HTML/CSS) and Cybersecurity. <br>Right now, studying advanced science and engineering topics like green hydrogen production, and bioremediation.<br>I am also researching no Bitcoin.<br>Beyond general interest, I have specifically looked into tools like Burp Suite, FoxyProxy, and Metasploit, as well as concepts like privilege escalation and DDoS attacks.
+I have a strong interest in Cybersecurity, specifically in programming (C, Python, HTML/CSS) and Computer Science. <br>Right now, studying advanced science and engineering topics like green hydrogen production, and bioremediation.<br>I am also researching no Bitcoin.<br>Beyond general interest, I have specifically looked into tools like Burp Suite, FoxyProxy, and Metasploit, as well as concepts like privilege escalation and DDoS attacks.
 
 
 ## 🌐 Socials:
